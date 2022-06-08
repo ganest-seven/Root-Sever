@@ -12,6 +12,12 @@ chmod +x g7
 <br>
 lalu buat password baru dan tunggu proses selsai (agak lama)
 <br>
-lau id ganestseven
+id ganestseven
 <br>
-selesai
+python -c 'import pty; pty.spawn("/bin/sh")'
+<br>
+su ganestseven
+<br>
+lalu id lagi
+<br>
+
