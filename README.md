@@ -1,7 +1,7 @@
 # Root-Sever
 sebelum pakai pastikan backconect terlebih dahulu
 lalu compile file nya 
-# comand nya
+# command nya
 cd /tmp
 <br>
 mkdir demon
