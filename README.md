@@ -2,7 +2,7 @@
 sebelum pakai pastikan backconect terlebih dahulu
 lalu compile file nya 
 # command nya
-cd /tmp
+```cd /tmp```
 <br>
 mkdir demon
 <br>
